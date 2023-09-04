@@ -1,0 +1,24 @@
+.gallery-images-list li img {
+  width: 150px;
+  height: 150px;
+}
+
+.gallery-images-item {
+  display: flex;
+  justify-content: space-between;
+}
+.gallery-image-cats {
+  margin-right: 20px;
+  padding: 5px 20px;
+}
+
+.gallery-images-actions {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.gallery-images-actions input {
+  margin-right: 20px;
+}
+
